@@ -1,16 +1,48 @@
-## Hi there 👋
+# Carlos Meza — QA Engineer (Manual + API + Automation)
+📍 Based in Colombia | Open to Remote Roles
+QA Engineering Bootcamp (TripleTen) — Focused on API testing, automation, SQL, and web testing.
 
-<!--
-**iamcarlosmeza-cyber/iamcarlosmeza-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Carlos, a QA Engineer focused on delivering high-quality software through structured testing, clear documentation, and test automation.
 
-Here are some ideas to get you started:
+I have hands-on experience in:
+- Manual testing (Web & Mobile)
+- Test case design & test planning
+- API testing with Postman
+- Bug reporting and documentation
+- Automation testing with Python & Pytest
+- Git & GitHub workflows
+- SQL fundamentals for database testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Testing:** Manual QA, Regression Testing, Exploratory Testing
+- **API:** Postman, REST APIs
+- **Automation:** Python, Pytest
+- **Tools:** Jira, DevTools, GitHub
+- **Documentation:** Markdown, Test Reports
+- **Databases:** SQL (basic testing queries)
+
+## Featured Projects
+### Web Manual Testing (Urban Routes)
+ Test plan, test cases, bug reports, regression checklist  
+ Repo: [qa-web-manual-testing-urban-routes](#)
+
+### API Testing (Urban Grocers)
+ Postman collection, automated API tests, Newman report  
+ Repo: [qa-api-testing-urban-grocers](#)
+
+### QA Automation (Python + Pytest)
+ Automated tests, Pytest structure, reusable code  
+ Repo: [qa-automation-python-pytest](#)
+
+## Certifications
+- Postman API Testing Path
+- Postman Student Expert
+- GitHub Copilot (GitHub Skills)
+- Introduction to CodeQL (GitHub Skills)
+- Communicate Using Markdown (GitHub Skills)
+- Python Development (Mimo)
+
+##  Contact
+- Email: iamcarlosmeza@gmail.com
+- GitHub: https://github.com/iamcarlosmeza-cyber
+- LinkedIn: (add your LinkedIn link here)
