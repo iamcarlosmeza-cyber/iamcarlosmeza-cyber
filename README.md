@@ -45,4 +45,4 @@ I have hands-on experience in:
 ##  Contact
 - Email: iamcarlosmeza@gmail.com
 - GitHub: https://github.com/iamcarlosmeza-cyber
-- LinkedIn: (add your LinkedIn link here)
+- LinkedIn: https://www.linkedin.com/in/carlos-a-meza-vanegas-4a9a29125/
