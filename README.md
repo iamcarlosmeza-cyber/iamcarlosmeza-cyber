@@ -1,48 +1,30 @@
-# Carlos Meza — QA Engineer (Manual + API + Automation)
-📍 Based in Colombia | Open to Remote Roles
-QA Engineering Bootcamp (TripleTen) — Focused on API testing, automation, SQL, and web testing.
+# Carlos Meza — QA Engineer
 
-Hi! I'm Carlos, a QA Engineer focused on delivering high-quality software through structured testing, clear documentation, and test automation.
+API & web testing · Test automation with Python, Selenium and pytest · Colombia, US-friendly time zone (UTC-5) · Open to remote roles
 
-I have hands-on experience in:
-- Manual testing (Web & Mobile)
-- Test case design & test planning
-- API testing with Postman
-- Bug reporting and documentation
-- Automation testing with Python & Pytest
-- Git & GitHub workflows
-- SQL fundamentals for database testing
+I test products knowing how they're built. As a freelancer I built and tested the tech for 4 small companies, and before that I handled live API integrations in travel tech.
 
-## Tech Stack
-- **Testing:** Manual QA, Regression Testing, Exploratory Testing
-- **API:** Postman, REST APIs
-- **Automation:** Python, Pytest
-- **Tools:** Jira, DevTools, GitHub
-- **Documentation:** Markdown, Test Reports
-- **Databases:** SQL (basic testing queries)
+## Highlights
+- **AirGateway (Berlin, NDC air distribution):** onboarded 15 travel agencies onto the API and troubleshot 80+ REST errors in live client environments.
+- **Gexhaust (US automotive):** built and deployed their new website, found the real performance bottleneck with data, and brought mobile scores to Accessibility 100 and Performance 91.
 
-## Featured Projects
-### Web Manual Testing (Urban Routes)
- Test plan, test cases, bug reports, regression checklist  
- Repo: [qa-web-manual-testing-urban-routes](#)
+## Featured projects
+| Project | What it shows |
+|---|---|
+| [urban-routes-selenium-tests](https://github.com/iamcarlosmeza-cyber/urban-routes-selenium-tests) | UI automation with Selenium, pytest and Page Object Model |
+| [urban-grocers-api-tests](https://github.com/iamcarlosmeza-cyber/urban-grocers-api-tests) | API automation with pytest and Requests, positive and negative cases |
+| [qa-web-manual-testing-urban-routes](https://github.com/iamcarlosmeza-cyber/qa-web-manual-testing-urban-routes) | Test plan, test cases, bug reports and regression checklist |
+| [qa-api-testing-urban-grocers](https://github.com/iamcarlosmeza-cyber/qa-api-testing-urban-grocers) | Postman collection and Newman report |
 
-### API Testing (Urban Grocers)
- Postman collection, automated API tests, Newman report  
- Repo: [qa-api-testing-urban-grocers](#)
-
-### QA Automation (Python + Pytest)
- Automated tests, Pytest structure, reusable code  
- Repo: [qa-automation-python-pytest](#)
+## Stack
+- **Testing:** functional, regression, exploratory, API
+- **Automation:** Python, Selenium, pytest, Requests
+- **API:** Postman, Newman, REST
+- **Tools:** Jira, Chrome DevTools, Git/GitHub, SQL
 
 ## Certifications
-- Postman API Testing Path
 - Postman Student Expert
-- GitHub Copilot (GitHub Skills)
-- Introduction to CodeQL (GitHub Skills)
-- Communicate Using Markdown (GitHub Skills)
-- Python Development (Mimo)
+- Postman API Testing Path
 
-##  Contact
-- Email: iamcarlosmeza@gmail.com
-- GitHub: https://github.com/iamcarlosmeza-cyber
-- LinkedIn: https://www.linkedin.com/in/carlos-a-meza-vanegas-4a9a29125/
+## Contact
+[iamcarlosmeza@gmail.com](mailto:iamcarlosmeza@gmail.com) · [LinkedIn](https://www.linkedin.com/in/carlos-a-meza-vanegas-4a9a29125/)
