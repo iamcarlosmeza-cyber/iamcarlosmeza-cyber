@@ -1,4 +1,4 @@
-# Carlos Meza — QA Engineer
+# Carlos Meza - QA Engineer
 
 API & web testing · Test automation with Python, Selenium and pytest · Colombia, US-friendly time zone (UTC-5) · Open to remote roles
 
